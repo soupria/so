@@ -1,5 +1,0 @@
-log:
-  debug:
-    TestTask: 'true'
-
-testKey: 'testValue'

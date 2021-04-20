@@ -1,6 +1,0 @@
-{
-	"network-policy-id": "networkPolicyId",
-	"network-policy-fqdn" : "networkPolicyFqdn",
-    "heat-stack-id" : "heatStackId",
-    "resource-version" : "resourceVersion"
-}
