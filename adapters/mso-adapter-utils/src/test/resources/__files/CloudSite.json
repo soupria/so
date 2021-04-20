@@ -1,9 +1,0 @@
-{
-    "region_id" : "regionId",
-    "identity_service_id" : "identityServiceId",
-    "aic_version" : "aicVersion",
-    "clli" : "clli",
-    "cloudify_id" : "cloudifyId",
-    "platform" : "platform",
-    "orchestrator" : "orchestrator"
-}

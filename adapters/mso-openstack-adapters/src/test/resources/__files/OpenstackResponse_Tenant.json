@@ -1,8 +1,0 @@
-{
-	"tenant": {
-		"id": "tenantId",
-		"name": "testingTenantName",
-		"description": null,
-		"enabled": null
-	}
-}

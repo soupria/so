@@ -1,2 +1,0 @@
-use catalogdb;
-ALTER TABLE vnfc_customization ADD vnfc_instance_group_customization_id INTEGER NULL;

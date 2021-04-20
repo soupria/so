@@ -1,9 +1,0 @@
-{
-	"status": {
-		"status": "200",
-		"message": "CREATE - test message"
-	},
-	"parameters": {
-		"key": "value"
-	}
-}

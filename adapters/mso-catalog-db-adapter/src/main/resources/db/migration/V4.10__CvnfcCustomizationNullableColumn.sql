@@ -1,4 +1,0 @@
-use catalogdb;
-
-ALTER TABLE cvnfc_customization 
-  MODIFY IF EXISTS VNFC_CUST_MODEL_CUSTOMIZATION_UUID varchar(200) NULL;

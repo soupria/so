@@ -1,4 +1,0 @@
-use requestdb;
-
-ALTER TABLE infra_active_requests ADD COLUMN IF NOT EXISTS RESOURCE_STATUS_MESSAGE longtext;
-ALTER TABLE archived_infra_requests ADD COLUMN IF NOT EXISTS RESOURCE_STATUS_MESSAGE longtext;
